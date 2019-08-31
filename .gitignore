@@ -1,6 +1,6 @@
 
 # Ignore the vscode files
-*.workspace
+*.code-workspace
 */**/.vscode/
 
 
