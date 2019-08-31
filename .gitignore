@@ -1,0 +1,9 @@
+
+# Ignore the vscode files
+*.workspace
+*/**/.vscode/
+
+
+# Ignore the Python related files
+*.pyc
+__pycache__
